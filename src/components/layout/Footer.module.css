@@ -8,14 +8,15 @@
 .social_list {
     display: flex;
     justify-content: center;
-    list-style-type: none;;
+    list-style-type: none;
+    ;
 }
 
 .social_list li {
     margin: 0 1em;
 }
 
-.social_list li:hover{
+.social_list li:hover {
     color: #ffbb33;
 }
 
@@ -31,4 +32,13 @@
 .copy_right span {
     font-weight: bold;
     color: #ffbb33;
+}
+
+p {
+    font-size: small;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
 }
