@@ -1,17 +1,5 @@
 {
-  "projects": [
-    {
-      "id": "1329",
-      "name": "Criar HomePage",
-      "budget": "1000",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": []
-    }
-  ],
+  "projects": [],
   "categories": [
     {
       "id": "1",
