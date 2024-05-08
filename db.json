@@ -8,8 +8,27 @@
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 0,
-      "services": []
+      "cost": 300,
+      "services": [
+        {
+          "name": "Pagar o gustavo",
+          "cost": "100",
+          "description": "e é muito ainda",
+          "id": "c0c93d30-2d4a-49b0-85f0-3e7715d71d5c"
+        },
+        {
+          "name": "Pagar o gustavo",
+          "cost": "100",
+          "description": "e é muito ainda",
+          "id": "c0c93d30-2d4a-49b0-85f0-3e7715d71d5c"
+        },
+        {
+          "name": "Pagar o gustavo",
+          "cost": "100",
+          "description": "e é muito ainda",
+          "id": "c0c93d30-2d4a-49b0-85f0-3e7715d71d5c"
+        }
+      ]
     }
   ],
   "categories": [
